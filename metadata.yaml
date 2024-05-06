@@ -1,0 +1,37 @@
+_repo: Campanalogia-b-or-The-art-of-ringing-improved-with-plain-and-easie-rules-to-guide-the-practit__73423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stedman, Fabian
+    aliases:
+    - F. S. (Fabian Stedman)
+    - S., F. (Fabian Stedman)
+    birthdate: 1640
+    deathdate: 1713
+    gutenberg_agent_id: '8117'
+    url: http://www.gutenberg.org/2009/agents/8117
+    wikipedia: https://en.wikipedia.org/wiki/Fabian_Stedman
+description: ''
+gutenberg_issued: '2024-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73423'
+language: en
+pgterms:marc905: 20050306084357stedman
+pgterms:marc906: '1677'
+pgterms:marc907: gb
+production_note: Richard Tonsing, Jonathan Ingram, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bW. Godbid, $c1677.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Change ringing'
+- !lcsh 'Bells'
+- !lcc 'MT'
+- GITenberg
+title: 'Campanalogia : $b or The art of ringing improved : with plain and easie rules
+  to guide the practitioner in the ringing all kinds of changes, to which is added,
+  great variety of new peals.'
+url: http://www.gutenberg.org/ebooks/73423
